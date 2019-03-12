@@ -27,6 +27,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Netflix](https://play.google.com/store/apps/details?id=com.netflix.ninja) - watch TV shows and Movies with a subscription.
 
+    ## Video
+    - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad)
+    - [Plex](https://play.google.com/store/apps/details?id=com.plexapp.android)
+## Tools
+- [Sideload Launcher](https://play.google.com/store/apps/details?id=eu.chainfire.tv.sideloadlauncher)
+
 ## Other Awesome Lists
 
 - [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - A curated list of addons that extends git cli.
